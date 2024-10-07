@@ -5,3 +5,5 @@ import seaborn as sns
 import altair as alt
 from wordcloud import WordCloud
 from mpl_toolkits.mplot3d import Axes3D
+
+url = "https://raw.githubusercontent.com/LanceMacNal1/Group3_CSS145_Activity3/refs/heads/main/Electronic_sales_Sep2023-Sep2024.csv"
