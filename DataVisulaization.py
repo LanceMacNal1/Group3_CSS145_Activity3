@@ -9,7 +9,7 @@ url = 'https://raw.githubusercontent.com/LanceMacNal1/Group3_CSS145_Activity3/re
 df = pd.read_csv(url)
 
 # Display the DataFrame
-st.write(df)
+st.write(pdf)
 
 def pie_chart_gender():
     gender_counts = df['Gender'].value_counts()
