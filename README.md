@@ -1,1 +1,2 @@
-Ruskin Gian Lauguico - 2019105102 - lauguicor
+Group Members:
+Ruskin Gian Lauguico
